@@ -7,4 +7,4 @@ extensions:
 .obj
 .glb
 .glTF
-.utdz
+.usdz
